@@ -3,10 +3,7 @@
   <PropertyGroup>
     <Title>Bonsai - TLD Library</Title>
     <Description>Bonsai Tracking Library containing the TLD self-supervised tracking algorithm.</Description>
-    <PackageTags>Bonsai Rx Tracking TLD OpenTLD</PackageTags>
-    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <TargetFramework>net462</TargetFramework>
-    <VersionPrefix>0.2.0</VersionPrefix>
   </PropertyGroup>
 
   <ItemGroup>
